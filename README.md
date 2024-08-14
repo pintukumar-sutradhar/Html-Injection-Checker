@@ -22,7 +22,7 @@ pip install -r requirements.txt
 # How to Use
 1. Clone the Repository
 Clone the repository to your local machine:
-git clone https://github.com/your-username/html-injection-checker.git
+git clone https://github.com/pintukumar-sutradhar/Html-Injection-Checker.git
 cd html-injection-checker
 
 2. Configure and Run
